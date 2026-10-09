@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c8t7d7c77la1h"
-path="res://.godot/imported/krishFace.jpg-9f69d6b6d829ac19f822ca4f66e8481b.ctex"
+uid="uid://i2sornyqsq1p"
+path="res://.godot/imported/icon.svg-8a42633fca07710a1390ed2552c66ce6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://krishFace.jpg"
-dest_files=["res://.godot/imported/krishFace.jpg-9f69d6b6d829ac19f822ca4f66e8481b.ctex"]
+source_file="res://game/icon.svg"
+dest_files=["res://.godot/imported/icon.svg-8a42633fca07710a1390ed2552c66ce6.ctex"]
 
 [params]
 
@@ -38,3 +38,6 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
+svg/scale=1.0
+editor/scale_with_editor_scale=false
+editor/convert_colors_with_editor_theme=false
